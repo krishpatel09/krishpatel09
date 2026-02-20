@@ -52,11 +52,6 @@ I believe in continuous improvement, writing maintainable code, and building sol
 ---
 
 ## 📊 GitHub Stats
-
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishpatel09&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishpatel09&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=krishpatel09&theme=tokyonight)
 
 ---
