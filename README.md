@@ -1,6 +1,4 @@
-# Hi, I’m Krish Patel 👋
-
-I’m a Full Stack Developer from Gujarat, India 🇮🇳 who enjoys building real-world web applications with a strong focus on backend architecture and clean code practices.
+# Hi, I’m Krish Sangani 👋 I’m a Full Stack Developer who enjoys building real-world web applications with a strong focus on backend architecture and clean code practices.
 
 My journey in development started with curiosity about how websites work behind the scenes — and today, I specialize in designing APIs, managing databases, and connecting powerful backend systems with responsive frontend interfaces.
 
