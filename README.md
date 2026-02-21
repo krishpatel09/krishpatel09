@@ -7,8 +7,6 @@ I primarily work with JavaScript and TypeScript ecosystems, using React and Next
 
 Beyond just writing code, I’m deeply interested in understanding system flow, deployment processes, and how applications behave in production environments. I have explored cloud deployment, Docker basics, CI/CD workflows, and performance optimization techniques.
 
-Some of the projects I’ve worked on include multi-user typing platforms, SaaS-style dashboards, authentication systems, CRUD-based applications, and full-stack platforms that combine frontend, backend, and database logic seamlessly.
-
 I believe in continuous improvement, writing maintainable code, and building solutions that solve practical problems — not just completing projects, but understanding them deeply.
 
 🚀 Currently focused on improving backend scalability, system design concepts, and cloud-native development.
